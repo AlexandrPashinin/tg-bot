@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "type": "stage",
+    "data": {
+      "label": "Презентация продукта",
+      "text": "Мой курс направлен на  оздоравление организма и укрепления здоровья  посмотри мой ролик и скажи что ты об этом думаешь   https://youtu.be/Y2NmdPgaNV8  ",
+      "width": 150,
+      "height": 60,
+      "buttons": [
+        {
+          "name": "дальше",
+          "id": "2a46f1dc-45ff-4327"
+        },
+        {
+          "name": "дальше11111",
+          "id": "2a46f1dc-45ff-"
+        }
+      ]
+    },
+    "style": {
+      "backgroundColor": "#00ccff",
+      "backgroundOpacity": 0.8
+    },
+    "edges": [
+      {
+        "id": "2-3",
+        "source": "2",
+        "target": "3",
+        "animated": true
+      }
+    ],
+    "position": {
+      "x": 250,
+      "y": 100
+    }
+  },
+  {
+    "id": "2",
+    "type": "stage",
+    "data": {
+      "label": "Переговоры",
+      "text": "ты посмотрел видео и теперь ты  осознаешь всю серьезность, но не волнуйся, я помогу тебе , смотри это видео  и ты узнаешь как ты можешь себе помочь ",
+      "width": 150,
+      "height": 60,
+      "buttons": [
+        {
+          "name": "следующий",
+          "id": "2a46f1dc-45ff-4327-ab5f-c0504e9da0ab"
+        }
+      ]
+    },
+    "style": {
+      "backgroundColor": "#ccffcc",
+      "backgroundOpacity": 0.8
+    },
+    "position": {
+      "x": 250,
+      "y": 200
+    }
+  },
+  {
+    "id": "3",
+    "type": "stage",
+    "data": {
+      "label": "Переговоры",
+      "text": " https://teletype.in/@mineevalexey/n6w-Jvg8wPL",
+      "width": 150,
+      "height": 60,
+      "buttons": [
+        {
+          "name": "жми на ссылку для прохождения теста",
+          "id": "2a46f1dc-45ff-4327-ab5f-c0504e9da0ab"
+        }
+      ]
+    },
+    "style": {
+      "backgroundColor": "#ccffcc",
+      "backgroundOpacity": 0.8
+    },
+    "position": {
+      "x": 250,
+      "y": 200
+    }
+  }
+
+]
